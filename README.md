@@ -1,10 +1,10 @@
 # Disaster Response Pipeline Project
 
-# Purpose
+## Purpose
 
 This repository contains all the nessary files to run a webapp that can classify requests for disaster relief in natural language to one of several categories. In categorizing messages, disaster response efforts can be more quickly organized and carried out and so relief can be delivered more quickly and to more people in need. 
 
-### Instructions:
+## Instructions:
 1. Run the following commands in the project's root directory to set up your database and model.
 
     - Run the ETL pipeline that cleans training data and stores in database
@@ -20,3 +20,5 @@ This repository contains all the nessary files to run a webapp that can classify
 ![TerminalScreenshot](/images/TerminalScreenshot.png)
 
 4. Access the app in a web browser by going to https://SPACEID-3001.SPACEDOMAIN 
+
+5. Once on the site, type in a message in the text box and click 'classify message' to see how that message would be routed in a disaster scenario

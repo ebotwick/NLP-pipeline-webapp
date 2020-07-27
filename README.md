@@ -17,6 +17,6 @@ This repository contains all the nessary files to run a webapp that can classify
 
 3. From a terminal run 'env|grep WORK' and you should see output similar to 
 
-![terminalScreenshot](/images/TerminalScreenshot.png)
+![TerminalScreenshot](/images/TerminalScreenshot.png)
 
 4. Access the app in a web browser by going to https://SPACEID-3001.SPACEDOMAIN 
